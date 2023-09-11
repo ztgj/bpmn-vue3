@@ -1,0 +1,32 @@
+{
+  "name": "bpmn-vue3-antd",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@ant-design/icons-vue": "^6.1.0",
+    "ant-design-vue": "^3.2.20",
+    "bpmn-js": "^7.3.0",
+    "bpmn-js-properties-panel": "^0.37.2",
+    "bpmn-js-task-resize": "^1.2.0",
+    "bpmn-js-token-simulation": "^0.10.0",
+    "camunda-bpmn-moddle": "^4.4.0",
+    "camunda-dmn-moddle": "1.1.0",
+    "codemirror-editor-vue3": "^2.0.6",
+    "core-js": "^3.6.5",
+    "diagram-js-minimap": "^2.1.1",
+    "vue": "^3.3.4"
+  },
+  "devDependencies": {
+    "@iconify/json": "^2.2.70",
+    "@vitejs/plugin-vue": "^4.2.3",
+    "vite-plugin-purge-icons": "^0.9.2",
+    "sass": "^1.32.12",
+    "vite": "^4.4.5"
+  }
+}
